@@ -1,3 +1,9 @@
+
+description: CareerFit AI 프로젝트 전체 개발 규칙
+globs:
+alwaysApply: true
+---
+
 # CareerFit AI — Cursor Rules
 
 ## 프로젝트 기본 정보
